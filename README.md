@@ -1,5 +1,5 @@
-# api
+# API REST | RESTFUL
 
-## boas pratias
+## BOAS PRATICAS
 
-- Utilizar verbos tthhpp para as requisições
+- Utilizar verbos HTTP para as requisições
